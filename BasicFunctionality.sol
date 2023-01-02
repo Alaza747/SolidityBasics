@@ -17,7 +17,7 @@ contract SimpleStorage{
         string name;
     }
 
-//creating an array called "people" 
+//creating an array called "people" ?
     People[] public people;
 
 //creating a mapping from "name" (string) to "favoriteNumber" (integer) 
